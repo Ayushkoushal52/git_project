@@ -1,5 +1,11 @@
-public class codingPart {
+ public class codingPart {
     public static void main (String args[]){
-        System.out.println("Coading is added successfully ");
+       int b=5 ;
+        final int a;
+        a=b;
+        System.out.println(a);
+        System.out.println(b);
     }
 }
+
+
